@@ -1,1 +1,1 @@
-# pico-prokekt
+# pico-projekt
